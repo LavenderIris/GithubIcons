@@ -1,0 +1,30 @@
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#wrapper{
+ width: 950px;
+ background-color: silver;
+ padding: 20px 20px 440px 20px; 
+}
+
+#navbar{
+ height: 100px;
+ background-color: green;
+ display: block ;
+
+}
+
+#imageblock{
+    width: 950px;
+    height: 800px;
+    background-color: yellow;
+    display: block;
+}
+
+.toplogo{
+    height: 10px;
+    width: 10px;
+    display: inline;
+}
